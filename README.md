@@ -1,4 +1,4 @@
 # Esoterik-local
 - Emoji code ideas
-- Bridges and APIs
-- Language model research Papers
+- Hiphop inspired esoteric language (Wu specific)
+- Chopping up Language model research Papers.
